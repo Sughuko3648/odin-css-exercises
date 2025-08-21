@@ -1,0 +1,18 @@
+.odd-numbered-elements {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#container {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#container2 {
+    background-color: lightgreen;
+    font: 30px bold;
+}
